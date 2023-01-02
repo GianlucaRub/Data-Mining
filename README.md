@@ -9,7 +9,7 @@
 
 This repository contains the homework assignments for the course ID2222-Data Mining at KTH. Each folder contains a notebook with the experiments performed for the homework,  optionally a pdf report, and the code for a variety of Data Mining algorithms.
 
-In particular, each project comprises the following implementations:
+In particular, each homework comprises the following implementations:
 
 | **Folder** |                    **Algorithms**                   |                                                                                                                                                                                                                                                       **Task Description**                                                                                                                                                                                                                                                       |
 |:----------:|:---------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
